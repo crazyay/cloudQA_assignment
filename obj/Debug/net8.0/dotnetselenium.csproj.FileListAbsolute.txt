@@ -18,3 +18,4 @@ F:\dotnetselenium\obj\Debug\net8.0\refint\dotnetselenium.dll
 F:\dotnetselenium\obj\Debug\net8.0\dotnetselenium.pdb
 F:\dotnetselenium\obj\Debug\net8.0\dotnetselenium.genruntimeconfig.cache
 F:\dotnetselenium\obj\Debug\net8.0\ref\dotnetselenium.dll
+F:\dotnetselenium\obj\Debug\net8.0\dotnetselenium.sourcelink.json
